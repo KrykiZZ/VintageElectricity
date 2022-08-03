@@ -1,0 +1,14 @@
+﻿{
+  "type": "code",
+  "name": "VintageElectricity",
+  "modid": "vintageelectricity",
+  "version": "0.0.1",
+
+  "description": "A bit of vintage electricity.",
+  "website": "https://github.com/KrykiZZ/VintageElectricity",
+  "authors": [ "KrykiZZ" ],
+
+  "dependencies": {
+    "game": "1.16.0"
+  }
+}

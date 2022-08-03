@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VintageElectricity", "VintageElectricity\VintageElectricity.csproj", "{A2A3BFE9-5DEA-440A-B1EC-617F2186536F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug-NoWorld|Any CPU = Debug-NoWorld|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A3BFE9-5DEA-440A-B1EC-617F2186536F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A3BFE9-5DEA-440A-B1EC-617F2186536F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A3BFE9-5DEA-440A-B1EC-617F2186536F}.Debug-NoWorld|Any CPU.ActiveCfg = Debug-NoWorld|Any CPU
+		{A2A3BFE9-5DEA-440A-B1EC-617F2186536F}.Debug-NoWorld|Any CPU.Build.0 = Debug-NoWorld|Any CPU
+		{A2A3BFE9-5DEA-440A-B1EC-617F2186536F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A3BFE9-5DEA-440A-B1EC-617F2186536F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0718F305-F34B-4E13-B251-B67DB1CD68C4}
+	EndGlobalSection
+EndGlobal
